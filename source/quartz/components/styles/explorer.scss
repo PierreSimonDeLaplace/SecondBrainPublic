@@ -4,8 +4,10 @@
   display: flex;
   flex-direction: column;
   overflow-y: hidden;
+  margin-top: 20px;
+  width: 100%;
   &.desktop-only {
-    @media all and not ($mobile) {
+    @media all{
       display: flex;
     }
   }

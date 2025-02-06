@@ -184,6 +184,7 @@ a {
       box-sizing: border-box;
       padding: $topSpacing 2rem 2rem 2rem;
       display: flex;
+      flex-wrap: wrap;
       height: 100vh;
       position: sticky;
     }
@@ -191,14 +192,13 @@ a {
     & .sidebar.left {
       z-index: 1;
       grid-area: grid-sidebar-left;
-      flex-direction: column;
+      flex-direction: row;
+      height: fit-content;
       @media all and ($mobile) {
-        gap: 0;
+        gap: 20px;
         align-items: center;
         position: initial;
         display: flex;
-        height: unset;
-        flex-direction: row;
         padding: 0;
         padding-top: 2rem;
       }
