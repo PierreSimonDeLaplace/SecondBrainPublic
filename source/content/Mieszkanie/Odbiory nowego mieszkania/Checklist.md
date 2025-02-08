@@ -1,4 +1,3 @@
-
 # Wziąć ze sobą
 - [ ] Poziomica min. 2-3m :luc_ruler:
 - [ ] Kątownik :luc_triangle:

@@ -1,7 +1,7 @@
 # Listwy przypodłogowe
 
 >[!success]
->Zastanowić się czy nie wtopić (zlicować listew ze ścianą) listew w ścianę, nie będzie wtedy problemu z kurzem i sprzątaniem. 
+>Zastanowić się czy nie wtopić (zlicować listew ze ścianą) listew w ścianę, nie będzie wtedy problemu z kurzem i sprzątaniem.  Robić to musi dobra ekipa, żeby było ładnie.
 
 # Panele winylowe
 - nie przepuszcza wody - można kłaść nawet w kabinie prysznicowej
@@ -15,22 +15,20 @@
 - jest to sztuczny materiał i to niestety widać :(
 - posadzka musi być idealnie wykonana, wylewka samopoziomująca, nie może być żadnych nierówności
 
-- Klasa ścieralności - 
-	  pierwsza liczba mówi o tym czy:
-	- 2 -obiekty mieszkalne
-	- 3 - obiekty komercyjne
-	- 4 - obiekty przemysłowe
-	  druga liczba natomiast mówi o intensywności używania:
-	- 1 - umiarkowana (sypialnia)
-	- 2 - normalna (salon)
-	- 3 - wysoka (klatki schodowa, przedpokój)
+- Klasa ścieralności 
+	- Pierwsza liczba mówi o tym czy:
+		- 2 -obiekty mieszkalne
+		- 3 - obiekty komercyjne
+		- 4 - obiekty przemysłowe
+	- Druga liczba natomiast mówi o intensywności używania:
+		- 1 - umiarkowana (sypialnia)
+		- 2 - normalna (salon)
+		- 3 - wysoka (klatki schodowa, przedpokój)
 - Grubość warstwy użytkowej - im grubsza tym trudniej będzie do zarysować tak, żeby było to widać - wybierać można pomiędzy 0.2, 0.3, 0.55 i 0.7mm
-- 
+- Podkład i panele powinny minimum dobę znajdować się w tym samym pomieszczeniu co będzie instalowana podłoga
+- Podkład układany prostopadle do kierunku układania paneli
 
-- podkład i panele powinny minimum dobę znajdować się w tym samym pomieszczeniu co będzie instalowana podłoga
-- podkład układany prostopadle do kierunku układania paneli
-
-❗Łącząc panele winylowe z kafelkami można zrobić mały podjazd z wykorzystaniem masy naprawczej, aby zniwelować różnice w grubości - kafelki będą grubsze.
+❗Łącząc panele winylowe z kafelkami można zrobić mały podjazd z wykorzystaniem masy naprawczej, aby zniwelować różnice w grubości - kafelki będą grubsze. Albo dać więcej wylewki.
 
 # Laminat
 - dobrze może imitować drewno

@@ -1,4 +1,3 @@
-
 # Epoksydowe
 Na bazie żywic reaktywnych (wiążą chemicznie). Odporność na ścieranie < 250 mm3
 Odporność na ściskanie i nasiąkliwość również zdecydowanie lepsza przy fugach RG1. 

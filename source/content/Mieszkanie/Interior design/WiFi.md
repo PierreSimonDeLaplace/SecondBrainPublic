@@ -2,7 +2,6 @@
 >[!warning]
 >Dowiedzieć się jaki jest rozmiar skrzynki telekomunikacyjnej i czy router tam wejdzie. Jeśli nie to koniecznie już na etapie uzgadniają szczegółów umowy należy się domagać zamontowania [ONT](https://en.wikipedia.org/wiki/Network_interface_device?wprov=sfti1). Pozwoli to przenieść router w dowolne inne miejsce. Później może być problem aby się doprosić. 
 
-# Czego nie robić
 ## Double NAT Networks
 Podwójny NAT ma miejsce kiedy łączymy jeden router za drugim, który posiada dostęp do ISP. **Tworzymy w ten sposób drugą sieć zamiast rozszerzać to co mamy.** 
 
@@ -18,7 +17,7 @@ Przewidzieć na razu okablowanie. Jeśli się o tym zapomni na etapie projektowa
 Ewentualnie wykorzystać Mesh korzystając z takich punktów dostępowych:
 - [TP-Link Deco X50](https://www.x-kom.pl/p/1049468-system-mesh-wi-fi-tp-link-deco-x50-mesh-wifi-3000mb-s-a-b-g-n-ax-2xap.html#Opinie)
 - [Linksys Velop Atlas Pro 6](https://www.x-kom.pl/p/696759-system-mesh-wi-fi-linksys-velop-atlas-pro-6-5400mb-s-a-b-g-n-ax-2xap.html)
-- Być poczekać na WiFi 7...
+- Być może poczekać na WiFi 7
 
 # WiFi 7 (802.11be)
 - **Teoretyczna** szybkość 46 Gb/s
@@ -30,4 +29,4 @@ Ewentualnie wykorzystać Mesh korzystając z takich punktów dostępowych:
 - Hybrid Automatic Repeat Request - jeśli w wyniku zakłócenia dana paczka przyjdzie uszkodzona i po prośbie o ponowne wysłanie paczek to jak znowu przyjdzie jakaś paczka uszkodzona to router sobie powinien poskładać sobie wszystko co potrzebne
 - Multilink - będzie pozwalał automatycznie przełączać się pomiędzy 2.4 a 5 GHz
 
-#flat
+#flat #wifi

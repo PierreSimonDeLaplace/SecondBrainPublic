@@ -12,13 +12,15 @@
 
 - Zastanowić się po co wracamy do kuchni czy sypialni przy wychodzeniu i dać to przedpokoju jakoś sprytnie ukryte
 
+- Zastanowić się czy nie dodać włączników schodowych/krzyżowych, aby móc zapalać światło z kilku miejsc. 
 ## Co na podłogę?
 - Najlepiej płytki
 - Ewentualnie panele (ale nie patrzeć tylko na ścieralność, a również na grubość włókna)
+- [[Podłogi|Panele winylowe]] też mogą być w porządku, ponieważ w razie zarysowań, zniszczeń można wymienić jeden panel. Aby tak się dało powinny być one klejone.
 
 # Ściany
-- Odporne na dzieci
-- Farba musi być szorowalna z powłoką **ceramiczną**
+- Odporne na dzieci 🧒
+- [[Farby|Farba]] 🖌️ musi być szorowalna z powłoką **ceramiczną**
 - Płyty betonowe
 - Nie kupować lameli drewnianych, bo nie da się tego wyczyścić
 

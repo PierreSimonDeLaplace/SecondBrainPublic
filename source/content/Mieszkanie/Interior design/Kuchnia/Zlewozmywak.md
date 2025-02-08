@@ -4,7 +4,7 @@ Istotne jest najpierw wybranie zlewu, a potem szafki.
 
 Czy chcemy mieć dodatkowe elementy, np. sitko? Powinny one być dopasowane do zlewu. 
 
-Warto, aby zlew się licował (prawie) z blatem, jeśli nie ma możliwości podwieszenia np. gdy [[Blaty kuchenne|blat]] nie jest z konglomeratu albo granitu.
+Warto, aby zlew się licował (prawie) z blatem, jeśli nie ma możliwości podwieszenia np. gdy [[Blaty kuchenne|blat]] nie jest z konglomeratu albo granitu. Jeśli jest taka możliwość to zlew podwiesić pod blatem.
 
 **Zlew nie powinien się znajdować przy ścianie, czy [[Płyta indukcyjna|płycie indukcyjnej]].**
 
@@ -14,9 +14,7 @@ Koniecznie trzeba wybrać czy jedno, czy dwu komorowy. Może być 1.5 komorowy. 
 
 ❗Najlepiej jedną dużą komorę i zmywarka.
 
-Do małej kuchni, mały zlew. 
-
-Im głębszy zlew tym lepiej.
+Do małej kuchni, mały zlew. Im głębszy zlew tym lepiej.
 
 # Materiały
 ## Stalowy

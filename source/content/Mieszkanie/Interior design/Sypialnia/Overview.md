@@ -1,29 +1,16 @@
 >[!info]
 >Maksymalnie minimalistycznie
-
-# Łóżko
-- nie powinno być zbyt niskie (w stylu japońskim styl japandi), ale takie są fajne 😢
-  ![[interior-design-sypialnia-lozko-w-stylu-japonskim.jpg]]
-- fajne i praktyczne łóżka kontynentalne (integrowane z materacem, wyższe niż tradycyjne)
-- stylowy duży zagłówek (ewentualnie można się zabawić tapetą)
-- stelaż min. 40-50 od ziemi (materac musi oddychać)
-- w małych pomieszczeniach uważać, aby nie miało ostrych krawędzi
-
 # Oświetlenie
 - ma być **ciepłe** światło
 - trzy rodzaje świateł:
 	- główne
 	- dodatkowe np. przy toaletce i przy szafkach nocnych
 	- nastrojowe
-
-# Materac
-- nie oszczędzać
-
 # Toaletka
 - najlepiej podwieszana, aby można było wsunąć pufe i zaoszczędzić więcej miejsca
   ![[interior-design-sypialnia-toaletka.png]]
 
-# Zasłony i rolety
+# [[Zasłony]] i rolety
 - tkanina nie może być prześwitująca
 - najlepiej jedna całkowicie odcinająca światło
 

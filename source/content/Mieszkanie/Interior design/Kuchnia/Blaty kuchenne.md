@@ -41,7 +41,7 @@
 - Cena
 
 ## Granit
-- Twardszy niż marmum
+- Twardszy niż marmur
 - Naturalny
 - Twardy
 - Mała nasiąkliwość

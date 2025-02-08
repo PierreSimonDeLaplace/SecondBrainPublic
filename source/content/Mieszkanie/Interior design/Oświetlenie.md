@@ -1,10 +1,19 @@
 >[!warning]
 >Żarówki kupować stacjonarnie, bo można reklamować. Producenci dają gwarancje na X lat, z przepalają się zdecydowanie szybciej. W szczególności jeśli w zamkniętej obudowanie i się grzeją
 
-# Temperatura barwowa
+# Włączniki schodowe/krzyżowe
+W większych mieszkaniach a w domach to już koniecznie, zrobić włączniki schodowe, krzyżowe np. w przedpokoju/salonie. Pozwoli to na zapalanie/gaszenie światła z kilku miejsc np. przy drzwiach wejściowych i w salonie albo na piętrze.
+
+# W łazience 🛀
+- umieścić lampy nad lustrem, jeśli szafka z lustrem to umieścić tak, aby szafka nie zasłaniała światła
+- najlepiej dwie lampy po obu stronach, albo jedna podłużna nad lustrem
+- dobre światło główne
+- Jak lustro okrągłe i nie ma gdzie fajnie umieścić światła to można asymetrycznie zamontować lampę wiszącą po lewej albo prawej stronie. 
+
+# Temperatura barwowa 🌡️
 Tradycyjna old-schoolowa wolfranowa żarówka ma barwę 2700 K. I wydaje się to najlepszy wybór do miejsc, gdzie ma być przytulnie np. w sypialni czy w pokoju dziecka. W salonie można dać 3000 K, będzie trochę mniej usypiająco. W pokoju do pracy można dać 4000 K (będzie działać pobudzająco), ale 3000 K też będzie dobra jeśli chcemy w mieszkaniu większą spójność barwową. Powyżej 4000 K to już na salę operacyjną.
 
-# Liczba lumenów w zależności od pomieszczenia 
+# Liczba lumenów w zależności od pomieszczenia :luc_lightbulb:
 ## Lumen, a lux
 Lumeny to liczba luxów pomnożona przez powierzchnię pomieszczenia. Żarówki mają podaną moc światła w lumenach, natomiast, aby dowiedzieć się jak dobrze zostanie nasza powierzchnia doświetlona należy posługiwać się luxami.
 $$lux = \frac{lm}{m^2}$$
@@ -16,37 +25,37 @@ Kalkulator Ile lumenów w zależności od pomieszczenia można policzyć z tego 
 
 **Najlepiej ustawić Lighting type na Custom i wybrać luxy jak poniżej**
 
-| | | |
-|---|---|---|
-|Kitchen|General|300 lux|
-||Countertop|750 lux|
-||||
-|Bedroom (adult)|General|100–300 lux|
-||Task|500 lux|
-||||
-|Bedroom (child)|General|500 lux|
-||Task|800 lux|
-||||
-|Bathroom|General|300 lux|
-||Shave/makeup|300–700 lux|
-|Living room/den|General|300 lux|
-||Task|500 lux|
-||||
-|Family room/home theater|General|300 lux|
-||Task|500 lux|
-||TV viewing|150 lux|
-||||
-|Laundry/utility|General|200 lux|
-||||
-|Dining room|General|200 lux|
-||||
-|Hall, landing/stairway|General|100–500 lux|
-||||
-|Home office|General|500 lux|
-||Task|800 lux|
-||||
-|Workshop|General|800 lux|
-||Task|1,100 lux|
+|                          |              |             |
+| ------------------------ | ------------ | ----------- |
+| Kitchen                  | General      | 300 lux     |
+|                          | Countertop   | 750 lux     |
+|                          |              |             |
+| Bedroom (adult)          | General      | 100–300 lux |
+|                          | Task         | 500 lux     |
+|                          |              |             |
+| Bedroom (child)          | General      | 500 lux     |
+|                          | Task         | 800 lux     |
+|                          |              |             |
+| Bathroom                 | General      | 300 lux     |
+|                          | Shave/makeup | 300–700 lux |
+| Living room/den          | General      | 300 lux     |
+|                          | Task         | 500 lux     |
+|                          |              |             |
+| Family room/home theater | General      | 300 lux     |
+|                          | Task         | 500 lux     |
+|                          | TV viewing   | 150 lux     |
+|                          |              |             |
+| Laundry/utility          | General      | 200 lux     |
+|                          |              |             |
+| Dining room              | General      | 200 lux     |
+|                          |              |             |
+| Hall, landing/stairway   | General      | 100–500 lux |
+|                          |              |             |
+| Home office              | General      | 500 lux     |
+|                          | Task         | 800 lux     |
+|                          |              |             |
+| Workshop                 | General      | 800 lux     |
+|                          | Task         | 1,100 lux   |
 
 ## Inne źródło (wartości już w lumenach dla danej powierzchni)
 
@@ -115,13 +124,13 @@ Nad prysznicem montować tylko LED 12 V zasilane z transformatora  (układ SELV 
 
 Jak się o to nie zadba to problemy mogą być i z bezpieczeństwem i z różnicówką, która może wywalać. 
 
-Jeśli nie chcemy robić sufitu podwieszanego to pod prysznicem koniecznie dać lampę o podwyższonej szczelności, IP 44 wystarczy w zupełności.
+Jeśli nie chcemy robić sufitu podwieszanego to pod prysznicem koniecznie dać lampę o [[Stopień ochrony IP| podwyższonej szczelności, IP 44 wystarczy w zupełności]].
 
 ## Oświetlenie nad umywalką
 Jeśli w promieniu powyżej 60 cm to może od biedy być bez podwyższonej szczelności, chociaż lepiej żeby te IPx2 było.
 
 # Kuchnia
 ## Nad stołem
-Zwisy (lampy wiszące nad stołem). Można rozkminić małe haczyki (jeden/dwa), aby umożliwić przewieszenie na szybko jednego zwisa i lepiej doświetlić stół - można przesuwać źródło światła.
+Zwisy (lampy wiszące nad stołem). Można rozkminić małe haczyki (jeden/dwa), aby umożliwić przewieszenie na szybko jednego zwisa i lepiej doświetlić stół - można przesuwać źródło światła. Może to być przydatne jeśli mamy gości i przesuwamy stół, albo go powiększamy.
 
 #flat
